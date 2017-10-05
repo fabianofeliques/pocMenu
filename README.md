@@ -1,6 +1,6 @@
 # POC Menu Programmer's #
 
-Clone the repository (git.com/projeto).
+Clone the repository.
 <br>
 Download XAMPP to open the connection with the database(https://www.apachefriends.org/pt_br/download.html).
 <br>
