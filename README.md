@@ -1,6 +1,7 @@
 # POC Menu Programmer's #
 
 Clone the repository (git.com/projeto).
+<br>
 Download XAMPP to open the connection with the database(https://www.apachefriends.org/pt_br/download.html).
 Run this line on a MySQL database: "CREATE SCHEMA dbcardapio".
 Run the script contained in the project.
