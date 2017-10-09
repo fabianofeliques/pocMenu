@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Programmer's Lunch Menu Application</title>
+    <title>Lunch Menu Application</title>
  
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -59,7 +59,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-12">
-                        <h1>Programmer's Lunch Menu Application</h1>
+                        <h1>Lunch Menu Application</h1>
                         <p>Welcome to the update data page.</p>
                         <p>Fill in the field below with the ID of the lunch you want to update.</p>
                         <a href="#menu-toggle" class="btn btn-default" id="menu-toggle">Menu</a>
