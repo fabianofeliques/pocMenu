@@ -13,7 +13,7 @@
 <meta name="description" content="">
 <meta name="author" content="">
 
-    <title>Programmer's Lunch Menu Application</title>
+    <title>Lunch Menu Application</title>
  
 <!-- Bootstrap Core CSS -->
 <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -63,7 +63,7 @@
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-lg-12">
-						<h1>Programmer's Lunch Menu Application</h1>
+						<h1>Lunch Menu Application</h1>
 						<p>Below you will find the data of the lunch you entered the ID. Confirm the delete clicking on the button Delete</p>
 						<a href="#menu-toggle" class="btn btn-default" id="menu-toggle">Menu</a>
 						<br> <br>
@@ -81,7 +81,7 @@
 							p.println("<html>");
 							p.println("<body>");
 							p.println("<script> alert('Invalid ID')</script>");
-							p.println("<script>setTimeout(\"window.location='Deletar.jsp'\", 50)</script>");
+							p.println("<script>setTimeout(\"window.location='Delete.jsp'\", 50)</script>");
 							p.println("</body>");
 							p.println("</html>");
 						} else {
